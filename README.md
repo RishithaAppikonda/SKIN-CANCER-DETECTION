@@ -1,4 +1,6 @@
-# Skin cancer is one of the most serious types of cancer, but the chances of successful
+# Skin Cancer Detection using Deep Learning and Machine Learning
+
+Skin cancer is one of the most serious types of cancer, but the chances of successful
 treatment improve greatly if it is detected early. However, traditional methods for
 diagnosing skin cancer often depend on visual checks by dermatologists, which can
 sometimes be inaccurate. In recent years, deep learning has shown great promise in
