@@ -12,3 +12,9 @@ extraction, and classification, with a special emphasis on improving segmentatio
 classification. The goal is to create a reliable tool that can help doctors diagnose skin
 cancer more accurately by analyzing images of skin lesions, potentially saving lives
 through early detection.
+
+# Dataset
+The ISIC skin cancer detection dataset provides a well-curated collection of 2,637
+skin lesion images, which are invaluable for training models to distinguish between
+benign and malignant cases. Out of these, 1,440 images represent benign lesions, while the remaining 1,197 depict malignant cases, reflecting a balanced approach
+toward both categories.
